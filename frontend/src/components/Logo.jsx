@@ -1,0 +1,1 @@
+import React from "react";export default function Logo(){return <div className="brand"><div className="brand-mark">V</div><div><strong>VTOP</strong><span>Campus Portal</span></div></div>}
